@@ -5,4 +5,5 @@ In this era of digital transformation, where restaurants are continually adaptin
 
 In this introduction, we will delve into the key features, benefits, and functionalities that make Zomato Sales Analysis by Cousins PowerBI a must-have tool for restaurants looking to thrive in the competitive food industry. Whether you're a local eatery, a franchise, or a fine-dining establishment, this solution will empower you to harness the full potential of your sales data, optimize operations, and ultimately delight your customers. Welcome to the future of restaurant management – welcome to Zomato Sales Analysis by Cousins PowerBI.
 
-![image](https://github.com/Mr-Abhinav/Zomato/assets/122855076/3bae6a81-8ff1-4c5c-a51b-0cfd12812e13)
+<img width="520" alt="image" src="https://github.com/Mr-Abhinav/Zomato/assets/122855076/771cf802-4f83-4969-8aca-56f8ad12c91e">
+
